@@ -6,7 +6,7 @@ Data
 Data was sourced from the UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
-Executive Summary
+Summary
 --
 
 Aim is to forecast a customer defaulting on their credit card payment. Through this model, credit card companies would understand the customers who are more likely to default in their payments and make strategies to reduce/encounter those defaults. Moreover, banks and financial institutions can use this model to target their ideal credit card customer by analyzing the potential customer profiles.
